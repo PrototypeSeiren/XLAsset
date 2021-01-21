@@ -12,3 +12,4 @@ jobs:
         dst: gitee/Nephren_Ruq
         dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
         dst_token: ${{ secrets.GITEE_TOKEN }}
+        static_list: "XLAsset"
